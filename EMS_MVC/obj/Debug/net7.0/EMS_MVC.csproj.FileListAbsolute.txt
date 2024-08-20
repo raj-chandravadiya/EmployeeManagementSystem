@@ -1,0 +1,198 @@
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.staticwebassets.runtime.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.exe
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.deps.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.runtimeconfig.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cs
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.EMS_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EMS_MVC.props
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMS_MVC.props
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMS_MVC.props
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\scopedcss\bundle\EMS_MVC.styles.css
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CopyComplete
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\refint\EMS_MVC.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\ref\EMS_MVC.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.staticwebassets.runtime.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.exe
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.EMS_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\scopedcss\bundle\EMS_MVC.styles.css
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CopyComplete
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\refint\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\EMS_MVC.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_MVC\obj\Debug\net7.0\ref\EMS_MVC.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.staticwebassets.runtime.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.exe
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.deps.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.runtimeconfig.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfo.cs
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cs
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.sourcelink.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.EMS_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EMS_MVC.props
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMS_MVC.props
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMS_MVC.props
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\scopedcss\bundle\EMS_MVC.styles.css
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CopyComplete
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\refint\EMS_MVC.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.genruntimeconfig.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\ref\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.staticwebassets.runtime.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.exe
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.RazorAssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.EMS_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMS_MVC.props
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\scopedcss\bundle\EMS_MVC.styles.css
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.csproj.CopyComplete
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\refint\EMS_MVC.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\ref\EMS_MVC.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\refint\EMS_MVC.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\obj\Debug\net7.0\EMS_MVC.pdb

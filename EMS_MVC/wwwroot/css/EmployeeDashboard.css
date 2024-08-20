@@ -1,0 +1,70 @@
+﻿.header {
+    background-color: #067e68;
+}
+
+.search-input {
+    border: 1px solid grey;
+    box-shadow: none;
+}
+
+.search-input:focus-within {
+    box-shadow: none;
+    border: 1px solid black;
+}
+#searchFilter{
+    border:none;
+}
+#searchFilter:focus {
+    box-shadow: none;
+}
+.primaryBtn {
+    width:80px;
+    height:40px;
+    border:0px;
+    background-color: #067e68;
+    border-radius:5px;
+}
+.secondaryBtn {
+    border:solid;
+    border-color: #067e68;
+    border-radius: 5px;
+    border-width: 1px;
+    width: 80px;
+    height: 40px;
+    background-color: #ffffff;
+    color: #067e68;
+}
+.temp:focus-within label {
+    color: #067e68 !important;
+}
+.inputs:focus {
+    border: 1px solid !important;
+    border-color: #067e68 !important;
+    box-shadow: none !important;
+}
+.input_labels {
+    color: grey;
+    left: 10px !important;
+}
+.paginationBtn {
+    background-color: #067e68;
+    border-radius: 5px;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.error{
+    font-size:14px;
+}
+.desSpan{
+    font-size:13px;
+}
+.form-check-input:checked {
+    background-color: #067e68;
+}
+.form-check-input:focus {
+    box-shadow: none !important;
+    border:none;
+}

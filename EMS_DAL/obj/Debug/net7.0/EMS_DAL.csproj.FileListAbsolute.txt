@@ -1,0 +1,62 @@
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.deps.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\refint\EMS_DAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\ref\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\refint\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\EMS_DAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_DAL\obj\Debug\net7.0\ref\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.deps.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.runtimeconfig.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.sourcelink.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\refint\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\ref\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\refint\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\ref\EMS_DAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\refint\EMS_DAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_DAL\obj\Debug\net7.0\EMS_DAL.pdb

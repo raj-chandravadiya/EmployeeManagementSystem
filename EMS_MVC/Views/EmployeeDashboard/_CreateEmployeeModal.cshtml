@@ -1,0 +1,98 @@
+﻿@model CreateEmployeeViewModel
+
+@* CREATE EMPLOYEE MODEL *@
+<div class="modal fade" id="CreateEmployeeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color:#067e68">
+                <h5 class="modal-title text-white" id="exampleModalLongTitle">Employee Form</h5>
+                <a data-bs-dismiss="modal">
+                    <svg height="20px" id="Layer_1" style="enable-background:new 0 0 512 512;" fill="white" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M443.6,387.1L312.4,255.4l131.5-130c5.4-5.4,5.4-14.2,0-19.6l-37.4-37.6c-2.6-2.6-6.1-4-9.8-4c-3.7,0-7.2,1.5-9.8,4  L256,197.8L124.9,68.3c-2.6-2.6-6.1-4-9.8-4c-3.7,0-7.2,1.5-9.8,4L68,105.9c-5.4,5.4-5.4,14.2,0,19.6l131.5,130L68.4,387.1  c-2.6,2.6-4.1,6.1-4.1,9.8c0,3.7,1.4,7.2,4.1,9.8l37.4,37.6c2.7,2.7,6.2,4.1,9.8,4.1c3.5,0,7.1-1.3,9.8-4.1L256,313.1l130.7,131.1  c2.7,2.7,6.2,4.1,9.8,4.1c3.5,0,7.1-1.3,9.8-4.1l37.4-37.6c2.6-2.6,4.1-6.1,4.1-9.8C447.7,393.2,446.2,389.7,443.6,387.1z" /></svg>
+                </a>
+            </div>
+            <form method="post" asp-action="CreateEmployee">
+                <div class="modal-body">
+
+                    <div class="row">
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="FirstName" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">First Name<sup> *</sup></label>
+                            <span asp-validation-for="@Model.FirstName" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="LastName" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">Last Name<sup> *</sup></label>
+                            <span asp-validation-for="@Model.LastName" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 mt-3 temp form-floating">
+                            <input asp-for="Email" class="form-control inputs" type="email" required placeholder="name@example.com" id="floatingInputEmail" pattern="@("^([\\w\\.\\-]+)@([\\w\\-]+)((\\.(\\w){2,3})+)$")">
+                            <label for="floatingInputEmail" class="input_labels">Email<sup> *</sup></label>
+                            <span asp-validation-for="@Model.Email" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 mt-3 temp form-floating">
+                            <input asp-for="Age" class="form-control inputs" required placeholder="name@example.com" type="number">
+                            <label for="" class="input_labels">Age<sup> *</sup></label>
+                            <span asp-validation-for="@Model.Age" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 mt-3 temp">
+                            <label for="" class="input_labels">Gender<sup> *</sup> :</label>
+                            <div class="d-flex align-items-center">
+                                <div class="form-check">
+                                    <input type="radio" required class="form-check-input border" asp-for="Gender" value="Male" id="radio1">Male
+                                    <label class="form-check-label" for="radio1"></label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="radio" required class="form-check-input border" asp-for="Gender" value="Female" id="radio2">Female
+                                    <label class="form-check-label" for="radio2"></label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="radio" required class="form-check-input border" asp-for="Gender" value="Other" id="radio3">Other
+                                    <label class="form-check-label" for="radio3"></label>
+                                </div>
+                            </div>
+                            <span asp-validation-for="@Model.Gender" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <select asp-for="Department" class="form-select inputs">
+                                <option value="0" selected disabled>Select State</option>
+                                @for (int i = 0; i < Model.DepartmentList.Count; i++)
+                                {
+                                    <option value="@Model.DepartmentList[i].Id">@Model.DepartmentList[i].Name</option>
+                                }
+                            </select>
+                            <label for="floatingInput" class="input_labels">Department<sup> *</sup></label>
+                            <span asp-validation-for="@Model.Department" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="Education" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">Education<sup> *</sup></label>
+                            <span asp-validation-for="@Model.Education" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="CompanyName" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">Company Name<sup> *</sup></label>
+                            <span asp-validation-for="@Model.CompanyName" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="Experience" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">Experience<sup> *</sup></label>
+                            <div class="text-secondary desSpan">In Years.</div>
+                            <span asp-validation-for="@Model.Experience" class="text-danger error"></span>
+                        </div>
+                        <div class="col-md-6 col-12 form-floating temp mt-3">
+                            <input asp-for="Package" type="text" class="form-control inputs" required placeholder="name@example.com">
+                            <label for="floatingInput" class="input_labels">Package<sup> *</sup></label>
+                            <div class="text-secondary desSpan">In LPA.</div>
+                            <span asp-validation-for="@Model.Package" class="text-danger error"></span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="text-white primaryBtn">Submit</button>
+                    <button type="reset" class="secondaryBtn">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

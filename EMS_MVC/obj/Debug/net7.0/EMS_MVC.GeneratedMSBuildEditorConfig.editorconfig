@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EMS_MVC
+build_property.RootNamespace = EMS_MVC
+build_property.ProjectDir = C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/EmployeeDashboard/EmployeeDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVEYXNoYm9hcmRcRW1wbG95ZWVEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/EmployeeDashboard/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVEYXNoYm9hcmRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/EmployeeDashboard/_CreateEmployeeModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVEYXNoYm9hcmRcX0NyZWF0ZUVtcGxveWVlTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/EmployeeDashboard/_EditEmployeeModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVEYXNoYm9hcmRcX0VkaXRFbXBsb3llZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/EmployeeDashboard/_EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVEYXNoYm9hcmRcX0VtcGxveWVlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/Shared/_EmployeeManagementSystem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXBsb3llZU1hbmFnZW1lbnRTeXN0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Training/Projects/Assignment Project/EmployeeManagementSystem/EMS_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

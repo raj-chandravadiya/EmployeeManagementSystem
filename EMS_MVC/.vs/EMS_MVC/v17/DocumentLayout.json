@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Training\\Projects\\Assignment Project\\EmployeeManagementSystem\\EMS_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C69CC8-4866-4969-8D14-B9E4968BA16B}|EMS_MVC.csproj|c:\\users\\admin\\desktop\\training\\projects\\assignment project\\employeemanagementsystem\\ems_mvc\\controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C69CC8-4866-4969-8D14-B9E4968BA16B}|EMS_MVC.csproj|solutionrelative:controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655E690D-2EE5-4302-9CAC-25DCB95C03C2}|..\\EMS_BAL\\EMS_BAL.csproj|c:\\users\\admin\\desktop\\training\\projects\\assignment project\\employeemanagementsystem\\ems_bal\\repository\\employeedashboardrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 386,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAAEBAAAAAAAAAADwvwkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-02T16:26:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDashboardRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Training\\Projects\\Assignment Project\\EmployeeManagementSystem\\EMS_BAL\\Repository\\EmployeeDashboardRepo.cs",
+              "RelativeDocumentMoniker": "..\\EMS_BAL\\Repository\\EmployeeDashboardRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Training\\Projects\\Assignment Project\\EmployeeManagementSystem\\EMS_BAL\\Repository\\EmployeeDashboardRepo.cs",
+              "RelativeToolTip": "..\\EMS_BAL\\Repository\\EmployeeDashboardRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:24:56.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Training\\Projects\\Assignment Project\\EmployeeManagementSystem\\EMS_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeDashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Training\\Projects\\Assignment Project\\EmployeeManagementSystem\\EMS_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:24:57.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.deps.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CopyComplete
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\refint\EMS_BAL.dll
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\ref\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CopyComplete
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\refint\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\EMS_BAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\Employee Management System\EMS_BAL\obj\Debug\net7.0\ref\EMS_BAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.deps.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.runtimeconfig.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.sourcelink.json
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CopyComplete
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\refint\EMS_BAL.dll
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\New folder\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\ref\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.deps.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.runtimeconfig.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_DAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\bin\Debug\net7.0\EMS_DAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.AssemblyReference.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfoInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.AssemblyInfo.cs
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.sourcelink.json
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.csproj.CopyComplete
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\refint\EMS_BAL.dll
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.pdb
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.genruntimeconfig.cache
+C:\Users\pci224\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\ref\EMS_BAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\refint\EMS_BAL.dll
+C:\Users\Admin\Desktop\Training\Projects\Assignment Project\EmployeeManagementSystem\EMS_BAL\obj\Debug\net7.0\EMS_BAL.pdb

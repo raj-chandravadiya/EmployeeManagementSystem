@@ -1,0 +1,146 @@
+﻿@model EmployeeDashboardViewModel
+
+<div class="mt-3 table-responsive">
+    <table class="table">
+        <colgroup>
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 12%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+            <col span="1" style="width: 8%;">
+        </colgroup>
+
+        <thead class="table-head align-middle">
+            <tr style="height:70px">
+                <th>ID</th>
+                <th>First Name</th>
+                <th>LastName</th>
+                <th>Email</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Department</th>
+                <th>Education</th>
+                <th>Company</th>
+                <th>Experience</th>
+                <th>Package</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+
+        <tbody class="table-body align-middle">
+            @for (int i = 0; i < Model.EmployeeList.Count; i++)
+            {
+                <tr>
+                    <td>@Model.EmployeeList[i].Id</td>
+                    <td>@Model.EmployeeList[i].FirstName</td>
+                    <td>@Model.EmployeeList[i].LastName</td>
+                    <td>@Model.EmployeeList[i].Email</td>
+                    <td>@Model.EmployeeList[i].Age</td>
+                    <td>@Model.EmployeeList[i].Gender</td>
+                    <td>@Model.EmployeeList[i].Department</td>
+                    <td>@Model.EmployeeList[i].Education</td>
+                    <td>@Model.EmployeeList[i].CompanyName</td>
+                    <td>@Model.EmployeeList[i].Experience Years</td>
+                    <td>@Model.EmployeeList[i].Package LPA</td>
+                    <td>
+                        <div class="d-flex">
+
+                            <button data-emplid="@Model.EmployeeList[i].Id" class="primaryBtn edit-btn mx-2 text-white" style="text-decoration:none">Edit</button>
+
+                            <a asp-action="DeleteEmployee" asp-route-id="@Model.EmployeeList[i].Id" class="secondaryBtn buttons" style="text-decoration:none">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+@* PAGINATION *@
+@if (Model.EmployeeList.Count > 0)
+{
+    <nav class="p-4 d-flex justify-content-center justify-content-md-between flex-column flex-md-row align-items-center">
+
+        <span class="mb-2">Page @Model.currentPage of @Model.totalPage</span>
+
+        <ul class="pagination me-2">
+            <li class="page-item @(Model.currentPage <= 1 ? "disabled" : "")">
+                <button class="mx-1 page-link" onclick="EmployeeList(@Model.currentPage - 1)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#067e68" class="bi bi-chevron-left" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0" />
+                    </svg>
+                </button>
+            </li>
+            @if (Model.totalPage > Model.pageSize)
+            {
+                int startPage = Model.currentPage - (Model.pageSize / 2);
+                int endPage = Model.currentPage + (Model.pageSize / 2);
+                if (startPage < 1)
+                {
+                    endPage -= startPage - 1;
+                    startPage = 1;
+                }
+                if (endPage > Model.totalPage)
+                {
+                    startPage -= endPage - Model.totalPage;
+                    endPage = Model.totalPage;
+                }
+                for (int i = startPage; i <= endPage; i++)
+                {
+                    <li class="page-item">
+                        <button class="page-link @(i == Model.currentPage ? "paginationBtn text-white fw-bold" : "text-dark") mx-1" onclick="EmployeeList(@i)">@i</button>
+                    </li>
+                }
+            }
+            else
+            {
+                @for (int i = 1; i <= Model.totalPage; i++)
+                {
+                    <li class="page-item">
+                        <button class="page-link @(i == Model.currentPage ? "paginationBtn text-white fw-bold" : "text-dark") mx-1" onclick="EmployeeList(@i)">@i</button>
+                    </li>
+                }
+            }
+            <li class="page-item @(Model.currentPage >= Model.totalPage ? "disabled" : "")">
+                <button class="mx-1 page-link" onclick="EmployeeList(@Model.currentPage + 1)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#067e68" class="bi bi-chevron-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                    </svg>
+                </button>
+            </li>
+        </ul>
+
+    </nav>
+}
+
+
+<script>
+
+    $('.edit-btn').on("click", function () {
+        var emplId = $(this).data("emplid");
+        console.log(emplId);
+        $.ajax({
+            url: "/EmployeeDashboard/EditEmployee",
+            type: 'POST',
+            data: { id: emplId },
+            success: function (result) {
+                $('#EditModal').html(result);
+                $('#EditEmployeeModal').modal('show');
+            },
+            error: function (error) {
+                console.log(error);
+                alert('error fetching details')
+            },
+        });
+    })
+</script>
